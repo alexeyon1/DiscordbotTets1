@@ -8,8 +8,6 @@ My Discord
 # Gpt4Free-Chat-bot 🤖
 This is a [Python](https://www.python.org)-based Discord bot using the `discord.py` library. The bot responds to messages, can change its profile picture, and provide latency information. Additionally, it uses the `theb` from [GPT4FREE](https://github.com/xtekky/gpt4free) for generating responses based on conversation history.
 
-# Preview 👀
-![image](https://user-images.githubusercontent.com/91066601/236717834-e3f6939f-3641-425c-b9f7-424a38f86ac4.png)
 
 
 ## Commands ⚙️⚙️
